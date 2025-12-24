@@ -8,4 +8,4 @@ To run:
 
 3) Get an API KEY from https://openweathermap.org/ and set up your API_KEY environment variable
 
-4) Run "py server.py" command and visit "localhost:8000" in a web browser
+4) Run "py server.py" command and visit "localhost:5000" in a web browser
